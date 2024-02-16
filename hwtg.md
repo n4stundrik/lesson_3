@@ -66,7 +66,11 @@ git clone https://github.com/ilnar-geekbrains/version_control_lection_3.git
 ```sh
 git clone https://github.com/ilnar-geekbrains/version_control_lection_3.git new-folder
 ```
- * Подключение к удалённому репозиторию
-* Отправка изменений на сервер
-* Запрос изменений с сервера
+ Для того чтобы перейти в удалённый репозиторий, необходимо ввести
+ ```sh
+ cd version_control_lection_3
+```
+
+
+
 
