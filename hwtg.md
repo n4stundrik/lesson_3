@@ -80,6 +80,11 @@ git clone https://github.com/ilnar-geekbrains/version_control_lection_3.git new-
 ```sh
 git remote add <название удаленного репозитория> <ссылка на удаленный репозиторий>
 ```
+2. git remote remove- отключает переданный удалённый репозиторий от Вашего, например:
+```sh
+git remote remove <название удаленного репозитория>
+```
+
 
 
 
